@@ -1,6 +1,6 @@
 
 ## Reading group: Using R for Data Science
-In this group we will be working from "R for Data Science" by Garrett Grolemund and Hadley Wickham, available for free online here: https://r4ds.hadley.nz/.
+Welcome! In this group we will be working from "R for Data Science" by Garrett Grolemund and Hadley Wickham, available for free online here: https://r4ds.hadley.nz/.
 
 This is the proposed structure for these sessions, however changes can be discussed to suit everyone's needs and availability.
 
