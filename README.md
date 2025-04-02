@@ -23,11 +23,11 @@ This is the proposed structure for these sessions, however changes can be discus
 ---
 
 ### **🗓️ Suggested Schedule (4 Months)**
-Since sessions are monthly, we can divide the book into **sections** to cover. Each session will focus on 2-3 related chapters:  
+Since sessions are monthly, we can divide the book into **sections** to cover. Each session will focus on 1-3 related chapters:  
 
 | **Month** | **Chapters** | **Topics** |
 |-----------|-------------|------------|
-| **1** | 2,6,7 | Intro: R & RStudio, scripts & projects, importing data |
+| **1** | 7,2 | Intro: R & RStudio, Basics & importing data |
 | **2** | 3,5 | Data Wrangling (Tidying and Transforming data) |
 | **3** | 1,9 | Data Visualisation with ggplot2|
 | **4** | 10 | Combine Learning (dplyr & ggplot2) & Exploratory Data Analysis |
